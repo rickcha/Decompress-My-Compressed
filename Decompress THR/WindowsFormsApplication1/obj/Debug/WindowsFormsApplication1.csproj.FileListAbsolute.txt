@@ -1,0 +1,21 @@
+c:\users\rick\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Rick\Desktop\Decompress THR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Rick\Desktop\Decompress THR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Desktop\Decompress THR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Desktop\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Rick\Desktop\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rick\Desktop\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Desktop\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Desktop\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Rick\Documents\GitHub\Decompress-My-Compressed\Decompress THR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Rick\Documents\GitHub\Decompress-My-Compressed\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Documents\GitHub\Decompress-My-Compressed\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Documents\GitHub\Decompress-My-Compressed\Decompress THR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Rick\Documents\GitHub\Decompress-My-Compressed\Decompress THR\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rick\Documents\GitHub\Decompress-My-Compressed\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Documents\GitHub\Decompress-My-Compressed\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\Rick\Documents\GitHub\Decompress-My-Compressed\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Detail.resources
+C:\Users\Rick\Documents\GitHub\Decompress-My-Compressed\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rick\Documents\GitHub\Decompress-My-Compressed\Decompress THR\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
